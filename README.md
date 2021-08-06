@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+I'm Nicole *(she/her/hers)*. I'm a rising junior at the **University of Chicago** majoring in Computer Science. I'm currently a **Production Engineering Fellow** with **MLH**.
 
 <!--
 **nicolesouydalay/nicolesouydalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
